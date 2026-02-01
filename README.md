@@ -16,8 +16,8 @@ Hizmet tipi seçimi:
 
 - P → Pasaport kaybı bilgilendirmesi
 
-- İşlem bitiminde:
+İşlem bitiminde:
 
--Kişi bilgilerini ve randevu saatini ekrana yazdırma
+- Kişi bilgilerini ve randevu saatini ekrana yazdırma
 
 - 4 kişinin seçtiği randevu saatlerini topluca listeleme
